@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT uni_tech_3593.wsgi:application

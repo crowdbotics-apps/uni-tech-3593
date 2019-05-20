@@ -1,0 +1,3 @@
+rootProject.name = 'uni_tech_3593'
+
+include ':app'
